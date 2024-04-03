@@ -37,31 +37,22 @@
 
 > **Kirill Eremenko** ,Data Scientist
 
-## Reference Links
-1. **Course Reference Thumbnail**
-
-![Course Description](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/Description.PNG)
-
- > [Udemy](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/)
-
-2. **Provided By**
+## Provided By
 
 ![Super Data Science Team](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/27129696_acc1.jpg)
 
 > **Note from Them** - We are the SuperDataScience Social team. You will be hearing from us when new SDS courses are released, when we publish new podcasts, blogs, share cheatsheets and more!.We are here to help you stay on the cutting edge of Data Science and Technology. 
 
-3. **Certificate**
+## Certificate
 
 ![Certificate](https://github.com/sen1997susmit/TensorFlow-2.0-Complete-Reference-Course/blob/main/TF2.jpg)
 
- > [Verified Certificate](https://github.com/sen1997susmit/TensorFlow-2.0-Complete-Reference-Course/blob/main/TF2.jpg)
+ > [Verified Certificate](https://github.com/sen1997susmit/TensorFlow-2.0-Complete-Reference-Course/blob/main/TF2.pdf)
 
- 4. **I am Extremely ThankFull For**
+## I am Extremely ThankFull For
 
  ![Udemy](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/Udemy.PNG)
 
  > Course Link -> [Udemy](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/)
 
-5. **Similar Courses**
-> 1. Power BI A-Z_Hands-On Power BI Training For Data Science -> [Course link](https://www.udemy.com/share/101WGaBUEecFdWRnQ=/) - [Github Link](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy)
-> 2. Modern-Natural-Language-Processing-in-Python-Udemy -> [link](https://www.udemy.com/share/102fxSBUEecFdWRnQ=/) - [Github Link](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy)
+
