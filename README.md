@@ -52,9 +52,9 @@
 
 3. **Certificate**
 
-![Certificate](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/Certificate.PNG)
+![Certificate](https://github.com/sen1997susmit/TensorFlow-2.0-Complete-Reference-Course/blob/main/TF2.jpg)
 
- > [Verified Certificate](https://www.udemy.com/certificate/UC-5f8d2ae4-de7e-4b5c-8be4-70f760ad2eaa/)
+ > [Verified Certificate](https://github.com/sen1997susmit/TensorFlow-2.0-Complete-Reference-Course/blob/main/TF2.jpg)
 
  4. **I am Extremely ThankFull For**
 
