@@ -1,5 +1,6 @@
 # TensorFlow 2.0 Complete Reference Course
-Tensorflow Course Containing Colab Files for Machine Learning, Natural Language Processing And Deep Learning Implementation
+
+ Tensorflow Course Containing Colab Files for Machine Learning, Natural Language Processing And Deep Learning Implementation
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
@@ -36,20 +37,31 @@ Tensorflow Course Containing Colab Files for Machine Learning, Natural Language 
 
 > **Kirill Eremenko** ,Data Scientist
 
-## Provided By
+## Reference Links
+1. **Course Reference Thumbnail**
+
+![Course Description](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/Description.PNG)
+
+ > [Udemy](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/)
+
+2. **Provided By**
 
 ![Super Data Science Team](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/27129696_acc1.jpg)
 
 > **Note from Them** - We are the SuperDataScience Social team. You will be hearing from us when new SDS courses are released, when we publish new podcasts, blogs, share cheatsheets and more!.We are here to help you stay on the cutting edge of Data Science and Technology. 
 
-## Certificate
+3. **Certificate**
 
-![Certificate]()
+![Certificate](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/Certificate.PNG)
 
- > [Verified Certificate]()
+ > [Verified Certificate](https://www.udemy.com/certificate/UC-5f8d2ae4-de7e-4b5c-8be4-70f760ad2eaa/)
 
-## I am Extremely ThankFull For
+ 4. **I am Extremely ThankFull For**
 
  ![Udemy](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/Udemy.PNG)
 
  > Course Link -> [Udemy](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/)
+
+5. **Similar Courses**
+> 1. Power BI A-Z_Hands-On Power BI Training For Data Science -> [Course link](https://www.udemy.com/share/101WGaBUEecFdWRnQ=/) - [Github Link](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy)
+> 2. Modern-Natural-Language-Processing-in-Python-Udemy -> [link](https://www.udemy.com/share/102fxSBUEecFdWRnQ=/) - [Github Link](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy)
